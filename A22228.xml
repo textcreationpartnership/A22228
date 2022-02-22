@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God king of England, Scotland, France and Ireland ... to all people to whome these our letters patents shall come, greeting whereas wee are credibly giuen to vnderstand aswell by ... the maior and iurats of our towne and port of Hastings, within our county of Sussex ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22228</idno>
+            <idno type="STC">STC 8635</idno>
+            <idno type="STC">ESTC S3806</idno>
+            <idno type="EEBO-CITATION">33151012</idno>
+            <idno type="OCLC">ocm 33151012</idno>
+            <idno type="VID">28865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28865)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:120)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God king of England, Scotland, France and Ireland ... to all people to whome these our letters patents shall come, greeting whereas wee are credibly giuen to vnderstand aswell by ... the maior and iurats of our towne and port of Hastings, within our county of Sussex ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1603-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Purfoot,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1620]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For 1-year collections to repair the pier of Hastings.</note>
+                  <note>Title and other title information from first 5 lines of text.</note>
+                  <note>At upper left corner of sheet: Hastings, an ancient port towne in Sussex.</note>
+                  <note>"Witnesse our selfe at Westminster, the sixteenth day of May, in the eighteenth yeere of our Raigne of England, France, &amp; Ireland; and of Scotland the three and fiftieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harbors --  Maintenance and repair --  Finance --  England.</term>
+               <term>Hastings (Sussex, England) --  History.</term>
+               <term>Sussex (England : County) --  History.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:28865:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>I R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <figDesc>English royal blazon surmounted by a crown and flanked by the English lion and Scottish unicorn, and surrounded by other royal symbols, each surmounted by a crown: the Tudor rose, the French fleur-de-lis, the Scottish thistle, and the Irish harp</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Haſtings,</hi> An ancient Port Towne in <hi>Suſſex.</hi>
+               </dateline>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES By the Grace God, King of England<g ref="char:punc">▪</g> Scotland, France, and Ireland, Defender of the Faith, &amp;c.</signed>
+               <salute>TO all people to whome theſe our Letters Patents ſhall come, greeting.</salute>
+            </opener>
+            <p>WHEREAS Wee are credibly giuen to vnderſtand aſwell by the humble Supplication and Petition of our true &amp; Loyall Subiects the Maior and Iurats of our Towne and Port of <hi>Haſtings</hi> within our County of <hi>Suſſex,</hi> being ſubſcribed by our right truſty &amp; wel beloued Counſellor <hi>Edward</hi> Lord <hi>Zouch</hi> Lord Warden of our Cinque Ports; As alſo by a Certificate vnder the hands of our right truſty &amp; wel beloued <hi>Henry</hi> Lord <hi>Hunſdon,</hi> Sir <hi>Thomas Pelham</hi> Knight &amp; Baronet, ſir <hi>Nicholas Parker,</hi> &amp; ſir <hi>Iohn Wildegos</hi> Knights,<hi>Nicholas Eversfield</hi> Eſquior, High Sheriffe of our Counties of <hi>Surrey</hi> and <hi>Suſſex, Thomas Aynſcombe,</hi> and <hi>Anthony Apſley</hi> Eſquiors, Iuſtices of the Peace within our foreſaid County of <hi>Suſſex:</hi> That our ſaid Towne of <hi>Haſtinges</hi> hath béen &amp; yet is the ancient Port Towne of the Cinque Ports, the which ſtanding &amp; being right ouer againſt the Kingdome of <hi>France</hi> vpon the maine Sea, hath hėeretofore not onely béene well inhabited with warlike people that haue manfully defended themſelues againſt the ſundry inuaſions &amp; attempts of the Enemy, but alſo it hath béen plentifully furniſhed with Fiſher<g ref="char:EOLhyphen"/>men &amp; good Maryners, and other ſeruiceable Seamen, and well ſtored with Shipping, Barques, and Boats for ſeruice &amp; for ſhipping, from whence not onely our owne Houſhold, and our Citty of <hi>London,</hi> with diuers other places from time to time are plentifully furniſhed with Fiſh, but alſo Our Na<g ref="char:EOLhyphen"/>uy Royall vpon any occaſion is the better appointed, by reaſon of the skilfull Mar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ners and cunning Seamen; But the ſame Towne is lately very much decayed &amp; ympoueriſhed for want of a Peere there to ſuccour and defend their ſhipping in fowle weather, whereby hath hapned vnto them of late yéeres infinite great loſſes both of ſhipping &amp; men, and many Strangers fro<g ref="char:cmbAbbrStroke">̄</g> time to time that ſayle that way haue béen &amp; daily are caſt away, to the vn<g ref="char:EOLhyphen"/>doing of many our Subiects, and the loſſe of many good Seamen. For preuention whereof, our poore ſubiects the Inhabitants of our ſaid Towne &amp; Port to t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir great charge &amp; ympoue<g ref="char:EOLhyphen"/>riſhing made out a Peéere into the Sea with Timber &amp; Rocks, that their Ships in any ſtormes might ride ſafe vnder the Peere, but the coſt and charge of making &amp; repairing the ſame from time to time hath béen ſo great &amp; burthenſome, that it hath in a maner vndone the ſaid Towne, &amp; driuen away many of the beſt &amp; wealthieſt men, to ſeat themſelues elſwhere, ſo that to this day not only the ſaid Péere for want of reparations is fallen downe &amp; quite deſtroyed, but alſo the ſaid Town that is ſeated in a place of danger from inuaſion of Forraine Enemies, which heretofore hath defended it ſelfe in many aſſaults, is now relinquiſhed, and for the moſt part vnpeopled, and the trade of fiſhing there decayed, all paſſengers that way diſtreſſed &amp; left deſti<g ref="char:EOLhyphen"/>tute in ſtormy &amp; tempeſtuous weather, and vndefended againſt Pyrats &amp; other Enemies. Upon Our Princely conſideration wherof, &amp; minding to prouide for the preſeruation of the liues of Our people, the maintenance of ſhipping, and the continuance of our Townes vpon the Sea coaſt, the in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reaſe of Fiſhermen &amp; Mariners, and that the prouiſion of our Howſhold, our Citty of <hi>London,</hi> and Countrey be not diminiſhed: And taking alſo into Our Princely conſideration, that our ſaid Subiects the poore Inhabitants of <hi>Haſtings,</hi> by reaſon of their great charge alre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy from time to time beſtowed in repairing the ſaid Peere, are not able any longer, howbeit moſt willing, to contribute thereto, The effecting whereof by the opinion of men experienced in thoſe affaires, will amount vnto the Sum of Two Thouſand Pounds &amp; vpwards, Wee haue thought good aſwell vpon the humble Peti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of the ſaid Inhabitants, as alſo vpon the recommendation of our foreſaid right truſty &amp; wel-beloued Counſellor, together with the humble requeſt of all our foreſaid Juſtices made vnto Us on their behalfes, to commend the furtherance of ſo néedfull &amp; laudable a worke, vnto the charitable and ſerious conſideration of all our louing and wel-diſpoſed Subiects within certaine Counties &amp; Citties of this our Realme héereafter mentioned: Not doubting, but that all good ſubiects (well weighing with themſelues the publike good enſuing by this worke) will be ready and willing <g ref="char:punc">▪</g>and the rather for our good conmendation héreof) to extend their liberall contributions more then in ordinary Collections, towards the finiſhing of the ſaid Peere, wherein they will declare their wil<g ref="char:EOLhyphen"/>lingnes to augment the good and proſperity of this our Realme.</p>
+            <p>KNOWE Yée therefore, that of Our eſpeciall Grace &amp; Princely compaſſion, wée haue gíuen &amp; granted, and by theſe our Letters Patents toe giue &amp; grant vnto our true &amp; Loyall Subiects the Maior &amp; Jurats of our ſaid Towne of <hi>ſHaſtings</hi> for the time being, and to euery other perſon or perſons that ſhall be deputed or aſſigned by them by a Deputation vnder their common Seale of the ſaid Towne, full power, licence, &amp; authority, to aſke, gather, receiue, and take the Almes and charitable beneuolence of all our louing Subiects whatſoeuer aſwell Spirituall as Temporall, Engliſh borne, Denizens, and Strangers within our Counties of <hi>Southampton, Wiltes, Dorſet, Somerſet, Devon,</hi> and <hi>Cornewall,</hi> with our Citty of <hi>Winche<g ref="char:EOLhyphen"/>fier,</hi> our Iſle of <hi>Wight,</hi> and Towne of <hi>Southampton,</hi> with our Citties of <hi>Salisbury, Briſtoll, Bath,</hi> and <hi>Wells,</hi> and <hi>Exeter,</hi> with our Towne &amp; County of <hi>Poole:</hi> And in all Townes cor<g ref="char:EOLhyphen"/>porate, priuiledged places, Pariſhes, Villages, and in all other places whatſoeuer within our foreſaid Counties, and not elſewhere, for &amp; towards the fortifying, repayring and finiſhing of the ſaid Péere, and the better and more ſpéedy erecution of this Our Royall pleaſure.</p>
+            <p>WHEREFORE Wée do by theſe our Letters Patents will and require all our Sheriffes in their ſeuerall Shires &amp; Counties, all Juſtices of Peace in their ſeuerall Diuiſions, and all Maiors, Bayliffes, and other head Officers within any Citty<g ref="char:punc">▪</g> Towne corporate, or ther Juriſdiction; And alſo all Parſons, Vicars, Miniſters, and Curats of Pariſhes, Chur<g ref="char:EOLhyphen"/>ches, &amp; Chappels, not onely of their owne parts to be helping with their liberall deuotion towards the ſaid good &amp; laudable worke, but alſo to recommend our ſpeciall pleaſure, and the fur<g ref="char:EOLhyphen"/>therance of the repaire of the ſaid Péere, in their ſeuerall Seiſſons, Citties, Townes, Liberties, Pariſh Churches, Hamlets, or Villages, for the better obtayning of liberall contributi<g ref="char:EOLhyphen"/>on thereunto. And wee will &amp; command all and euery the chiefe Conſtables of euery Hundred, and where no chiefe Conſtable ſhall be, then wée require the Juſtices of Peace or other head Officer of any ſuch place, that at ſuch time &amp; times, as the ſaid Maior &amp; Jurats for the time being, or any perſon by them deputed vnder their common Seale of the ſaid Towne, ſhal come &amp; repaire to you or any of you, with theſe our letters Patents vnder our great Seale of <hi>England,</hi> that forthwith vpon ſight theof, you receiue &amp; take the Briefes or Copies therof, and them deliuer, or cauſe to be deliuered to the Miniſter or one of the Churchwardens of euery Pariſh within your ſeuerall Hundreds, limits, or beurds, to be publiſhed by y<hi rend="sup">e</hi> Miniſter of euery ſuch Pariſh the next Sabboth day after the receipt therof <g ref="char:punc">▪</g>if with conueniency it may be done) otherwiſe the next Sabboth day following. And wee will &amp; require you the ſaid Parſons, Vicars, and Curats, for the better ſtirring vp of a charitable deuotion, deliberately to publiſh &amp; declare the Tenor of theſe our Letters Patents or the Briefe therof, within your Pariſh Churches and Chappels to all our louing Subiects within the time before prefixed, and that when no other Collection ſhall be made, Exhorting &amp; perſwading them to extend their liberal contributi<g ref="char:EOLhyphen"/>ons in ſo good &amp; néedfull a worke. And wée require you the Churchwardens of euery Pariſh where ſuch Collections are to be made as aforeſaid, that ymmediately after y<hi rend="sup">e</hi> publiſhing of theſe our Letters Patents, or the Briefe therof, you carefully collect &amp; gather from ſeat to ſeat the beneuolence of all our louing Subiects, aſwell ſtrangers as others, and ſuch as are abſent from Church to repaire vnto their houſes for their beneuolence, and to ſet down in writing in a paper Booke the name of the Pariſh, together with the ſeuerall names &amp; Sums of thoſe which giue and contribute in any Citty, Towne, or Hamlet, and the ſum totall which ſhall be by you ſo gathered, to be by the Miniſter &amp; your ſelues endorſed on the Back-ſide of the Briefe, in words at length, and not in figures, vnder your handes: And the ſayd Briefes ſo endorſed, and the ſum or ſums of money ſo gathered, together with the ſaid paper Booke, you the Churchwardens of euery Pariſh, or Petty Conſtables, or other inferior Officers, aſwell in euery Citty, Towne corporate, priuiledged places, or elſewhere, ſhall returne vnto the Juſtices of Peace, Head Officers, or chiefe Conſtables from whom you receiued your charge, or to their Succeſſons within Ten daies after ſuch Collection made. And you the ſaid Juſtices of Peace, Head Offi<g ref="char:EOLhyphen"/>cers, and chiefe Conſtables, to deliuer the ſaid Money, Paper Booke, &amp; Briefes to our High Sheriffe of the ſame County at the next Quarter Seſſions. And you our High Sheriffe to deli<g ref="char:EOLhyphen"/>uer, or cauſe to be deliuered the foreſaid Money, Paper Bookes, and Briefes the next Terme following after ſuch your receipt vnto our truſty &amp; wel-beloued Subiect <hi>Robert Tichborne</hi> Cittizen &amp; Lynnen Draper of <hi>London,</hi> at his houſe in <hi>Cheap-ſide,</hi> who vpon the receipt thereof, ſhall giue vnto our ſaid High Sheriffe an Acquittance for his diſcharge. And you the ſaid <hi>Robert Tichborne</hi> from time to time vpon demaund, to deliuer vnto our foreſaid ſubiects the Maior &amp; Jurats of <hi>Haſtings</hi> aforeſaid, or to their Deputie, or Deputies authoriſed vnder their common Seale, all ſuch Sum &amp; Sums of Money, together with the ſaid Paper Bookes, Briefes, taking from them, or any of them, an Acquitance for the ſame, wherby it may appeare vnto Us, that there hath béen no default or neglect of this Our Royall pleaſure, for the performance of ſo good and néedfull a worke. Any Stature, Lawe, Ordinance, or prouiſion héeretofore made to the contrary in any wiſe notwithſtanding.</p>
+            <p>IN witneſſe whereof, wée haue cauſed theſe our Letters to be made Patents for the ſpace of One whole yéere next after the date héereof to en<g ref="char:EOLhyphen"/>dure.</p>
+            <closer>
+               <dateline>Witnes our ſelfe at <hi>Weſtminſter,</hi> 
+                  <date>the Sixtéenth day of May, in the Eightéenth yéere of our Raigne of <hi>England, France,</hi> and <hi>Ireland;</hi> and of <hi>Scotland</hi> the Thrée and Fiftieth.</date>
+               </dateline>
+               <signed>
+                  <figure>
+                     <figDesc>oak cluster</figDesc>
+                  </figure> Steward</signed>
+            </closer>
+            <trailer>
+               <figure>
+                  <figDesc>thistle</figDesc>
+               </figure> God ſaue the king</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Thomas Purfoot.</p>
+         </div>
+         <div type="notice">
+            <p>
+               <hi>Note.</hi> It is his Maieſties pleaſure, for the better furtherance of this neceſſary worke, (in regard it is a Towne Defence, and hath been often aſſualted by the Enemy) that the Church<g ref="char:EOLhyphen"/>wardens of euery Pariſh, ſhall haue a ſpeciall care in performing of the Collection, according to the intent and true meaning of the Letter Patents, whereof this is a true Briefe.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
